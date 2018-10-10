@@ -33,4 +33,4 @@ GET : /gdrive/embed.js?key={keyfiles}
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## [Demo Project](https://apps.heirro.net/gdrive/) | ## [Demo Get API](https://api.heirro.net/developers/gdrive/get.json?u=https://drive.google.com/open?id=1Q4zicZoBlI4NwSkyi1HV8ff0ggUHHWpd)
+## [Demo Project](https://apps.heirro.net/gdrive/) | [Demo Get API](https://api.heirro.net/developers/gdrive/get.json?u=https://drive.google.com/open?id=1Q4zicZoBlI4NwSkyi1HV8ff0ggUHHWpd)
