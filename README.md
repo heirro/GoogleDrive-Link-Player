@@ -1,4 +1,4 @@
-# Google Drive Link Download or Streaming Generator
+# GDrive Link Download or Streaming Generator
 
 Berfungsi meng-generate files google drive agar bisa dibuat untuk Streaming atau Direct Download tanpa Limit.
 
@@ -32,3 +32,5 @@ GET : /gdrive/embed.js?key={keyfiles}
 * **Vava Heirro** - *Initial work* - [Heirro](https://github.com/heirro)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## [Demo Project](https://apps.heirro.net/gdrive/) | ## [Demo Get API](https://api.heirro.net/developers/gdrive/get.json?u=https://drive.google.com/open?id=1Q4zicZoBlI4NwSkyi1HV8ff0ggUHHWpd)
