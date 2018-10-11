@@ -29,7 +29,7 @@ GET : /gdrive/embed.js?key={keyfiles}
 ```
 ## Authors
 
-* **Vava Heirro** - *Initial work* - [Heirro](https://github.com/heirro)
+* **Vava Heirro** - *BackEnd & FrontEnd Developer* - [Heirro](https://github.com/heirro)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
