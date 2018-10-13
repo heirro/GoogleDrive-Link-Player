@@ -18,9 +18,15 @@ Core data:
 GET : /gdrive/get.json?u={link_gdrive}
 ```
 
-Download link auto generate:
+## Download Link Endpoint
+
+1. Download Link with Google ID (slow respond time):
 ```
 GET : /gdrive/dl.js?gid={google_id}
+```
+2. Direct Download Link with Encrypt (fast respond time):
+```
+GET : /gdrive/download.js?to={encryption_code}
 ```
 
 Embeded video auto generate with jWplayer:
