@@ -28,10 +28,15 @@ GET : /gdrive/dl.js?gid={google_id}
 ```
 GET : /gdrive/download.js?to={encryption_code}
 ```
+## Embed Video
 
-Embeded video auto generate with jWplayer:
+1. Embeded with jWplayer:
 ```
 GET : /gdrive/embed.js?key={keyfiles}
+```
+2. Embeded with HTML5:
+```
+GET : /gdrive/embed2.html?key={keyfiles}
 ```
 ## Authors
 
