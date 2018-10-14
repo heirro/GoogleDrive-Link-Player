@@ -36,7 +36,7 @@ GET : /gdrive/embed.js?key={keyfiles}
 ```
 2. Embeded with HTML5:
 ```
-GET : /gdrive/embed2.html?key={keyfiles}
+GET : /gdrive/video.html?key={keyfiles}
 ```
 ## Authors
 
