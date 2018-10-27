@@ -22,17 +22,17 @@ GET : /gdrive/get.json?u={link_gdrive}
 
 1. Download Link with Google ID (slow respond time):
 ```
-GET : /gdrive/dl.js?gid={google_id}
+GET : /gdrive/dl/verify.html?gid={google_id}
 ```
 2. Direct Download Link with Encrypt (fast respond time):
 ```
-GET : /gdrive/download.js?to={encryption_code}
+GET : /gdrive/download/direct.html?to={encryption_code}
 ```
 ## Embed Video
 
-1. Embeded with jWplayer:
+1. Embeded with jWplayer (**not recommended**):
 ```
-GET : /gdrive/embed.js?key={keyfiles}
+GET : /gdrive/embed.html?key={keyfiles}
 ```
 2. Embeded with HTML5:
 ```
