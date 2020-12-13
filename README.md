@@ -1,3 +1,4 @@
+# ⛔️ DEPRECATED
 # GDrive Link Download or Streaming Generator
 
 Berfungsi meng-generate files google drive agar bisa dibuat untuk Streaming atau Direct Download tanpa Limit.
